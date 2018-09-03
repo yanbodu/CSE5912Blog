@@ -1,2 +1,2 @@
-# CSE5912Blog
-Blog page for CSE5912 game project
+# WebResume project to practice Front-end skills 
+https://yanbodu.github.io/WebResume/
