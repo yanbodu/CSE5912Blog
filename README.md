@@ -1,2 +1,2 @@
-# WebResume project to practice Front-end skills 
-https://yanbodu.github.io/WebResume/
+# Wbe page:
+https://yanbodu.github.io/CSE5912Blog/
